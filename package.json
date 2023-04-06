@@ -1,0 +1,24 @@
+{
+  "name": "01-graphql-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucols/01-GraphQL-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaucols/01-GraphQL-Course/issues"
+  },
+  "homepage": "https://github.com/glaucols/01-GraphQL-Course#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
